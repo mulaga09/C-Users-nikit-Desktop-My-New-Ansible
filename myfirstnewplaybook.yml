@@ -1,0 +1,7 @@
+---
+- hosts : all
+  tasks :
+  - name : Install webserver on node side
+    apt :
+     - name : apache2
+       state : present

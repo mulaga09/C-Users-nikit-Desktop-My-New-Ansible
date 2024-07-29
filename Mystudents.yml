@@ -1,0 +1,22 @@
+---
+- mystudents:
+  - Name: Sindhu
+    Contact: 00000000000
+    Address: 
+        Doorno: 101
+        Streetno: 2
+        Pincode: 08028
+  
+  - Name: Swapna
+    Contact: 111111111111
+    Address: 
+        Doorno: 109
+        Streetno: 3
+        Pincode: 09876
+
+  - Name: sweety
+    Contact: 222222222222
+    Address:
+        Doorno: 243
+        Streetno: 5
+        Pincode: 34578
